@@ -1,2 +1,2 @@
 # exercice-3
- html/css + responsive 
+ 3ème exercice du site FrontendMentor en html/css + responsive
